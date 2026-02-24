@@ -28,19 +28,19 @@ Parse conversas exportadas do WhatsApp e gere relatórios Excel formatados com 3
 
 **Arquivo:** [`vp-benefit-tracker.html`](vp-benefit-tracker.html)
 
-Gerencie o benefício anual de viagens (R$60.000/VP) interpretando conversas WhatsApp com IA.
+Gerencie o benefício anual de viagens interpretando conversas WhatsApp com IA.
 
 🔗 **[Acessar online](https://antoniogomes2504-del.github.io/whatsapp-parser/vp-benefit-tracker.html)**
 
 ### Features
 - 🧠 IA (Claude API) interpreta linguagem natural
-- 📊 Dashboard por VP com barras de utilização
+- 📊 Dashboard por beneficiário com barras de utilização
 - 🚨 Alertas visuais: Normal / Atenção / Crítico
 - 💰 Controle de orçamento com saldo em tempo real
 - 📗 Exportação Excel com 3 abas (Dashboard, Eventos, Por Mês)
 
 ### Pré-requisito
-- Chave da API [Anthropic Claude](https://console.anthropic.com/) (armazenada localmente no browser)
+- Chave da API [Anthropic Claude](https://console.anthropic.com/)
 
 ---
 
@@ -53,17 +53,23 @@ Gerencie o benefício anual de viagens (R$60.000/VP) interpretando conversas Wha
 | SheetJS (xlsx) | Geração do Excel |
 | Anthropic Claude API | IA para interpretar mensagens (VP Tracker) |
 
-## 📂 Estrutura
+## 📂 Estrutura do Projeto
 
 ```
 whatsapp-parser/
-├── index.html                  # WhatsApp Parser (SPA)
-├── vp-benefit-tracker.html     # VP Benefit Tracker (SPA)
-├── teste_whatsapp.txt          # Arquivo de teste - Parser
-├── teste_vp_tracker.txt        # Arquivo de teste - VP Tracker
+├── index.html                          # App 1 — WhatsApp Parser
+├── vp-benefit-tracker.html             # App 2 — VP Benefit Tracker
+│
+├── examples/                           # Arquivos de exemplo para teste
+│   ├── teste_whatsapp_parser.txt       # Conversa de exemplo (Parser)
+│   └── teste_vp_tracker.txt            # Conversa de exemplo (VP Tracker)
+│
+├── legacy/                             # Versão anterior (Python/Tkinter)
+│   └── Estruturar_conversa_do_WhatsApp.py
+│
+├── .gitignore
 ├── README.md
-├── LICENSE
-└── .gitignore
+└── LICENSE
 ```
 
 ## 📄 Licença

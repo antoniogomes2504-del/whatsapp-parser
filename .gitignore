@@ -1,4 +1,4 @@
-# System files
+# System
 .DS_Store
 Thumbs.db
 desktop.ini
@@ -6,6 +6,19 @@ desktop.ini
 # IDE
 .vscode/
 .idea/
+*.swp
+*.swo
 
 # Logs
 *.log
+
+# Temp
+*.tmp
+*.bak
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node (caso futuro)
+node_modules/
