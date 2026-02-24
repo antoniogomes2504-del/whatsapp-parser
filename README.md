@@ -1,34 +1,48 @@
-# 💬 WhatsApp Parser — Excel Exporter
+# 💬 WhatsApp Tools — Parser & VP Benefit Tracker
 
 ![Version](https://img.shields.io/badge/version-3.0-25D366?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 ![No Backend](https://img.shields.io/badge/backend-none-orange?style=for-the-badge)
 
-> Parse WhatsApp exported conversations and generate beautifully formatted Excel files — 100% in the browser, no server needed.
+> Ferramentas web para processar conversas exportadas do WhatsApp — 100% no browser.
 
-## ✨ Features
+---
 
-- 📁 **Drag & Drop** — Arraste o arquivo `.txt` exportado do WhatsApp
-- 🔍 **Parser inteligente** — Reconhece mensagens, participantes e datas automaticamente
-- 📊 **Excel com 3 abas** — Conversa, Resumo e Por Dia
-- 🎨 **Interface moderna** — Dark theme inspirado no WhatsApp
-- 🔒 **100% privado** — Nenhum dado é enviado para servidores
-- 📱 **Responsivo** — Funciona em desktop e mobile
+## 📱 App 1 — WhatsApp Parser
 
-## 🚀 Como Usar
+**Arquivo:** [`index.html`](index.html)
 
-1. Acesse a aplicação no navegador
-2. Arraste seu arquivo `.txt` do WhatsApp ou clique para selecionar
-3. Clique em **Processar Conversa**
-4. Visualize as estatísticas
-5. Clique em **Baixar Excel Formatado**
+Parse conversas exportadas do WhatsApp e gere relatórios Excel formatados com 3 abas.
 
-### Como exportar uma conversa do WhatsApp
+🔗 **[Acessar online](https://antoniogomes2504-del.github.io/whatsapp-parser/)**
 
-1. Abra a conversa no WhatsApp
-2. Toque em **⋮** (menu) → **Mais** → **Exportar conversa**
-3. Escolha **Sem mídia**
-4. Salve o arquivo `.txt`
+### Features
+- 📁 Drag & Drop de arquivo `.txt`
+- 🔍 Parser inteligente de mensagens
+- 📊 Excel com 3 abas (Conversa, Resumo, Por Dia)
+- 🎨 Interface dark theme estilo WhatsApp
+
+---
+
+## 💼 App 2 — VP Benefit Tracker
+
+**Arquivo:** [`vp-benefit-tracker.html`](vp-benefit-tracker.html)
+
+Gerencie o benefício anual de viagens (R$60.000/VP) interpretando conversas WhatsApp com IA.
+
+🔗 **[Acessar online](https://antoniogomes2504-del.github.io/whatsapp-parser/vp-benefit-tracker.html)**
+
+### Features
+- 🧠 IA (Claude API) interpreta linguagem natural
+- 📊 Dashboard por VP com barras de utilização
+- 🚨 Alertas visuais: Normal / Atenção / Crítico
+- 💰 Controle de orçamento com saldo em tempo real
+- 📗 Exportação Excel com 3 abas (Dashboard, Eventos, Por Mês)
+
+### Pré-requisito
+- Chave da API [Anthropic Claude](https://console.anthropic.com/) (armazenada localmente no browser)
+
+---
 
 ## 🛠️ Tecnologias
 
@@ -37,16 +51,19 @@
 | React 18 | Interface e componentes |
 | Tailwind CSS | Estilização |
 | SheetJS (xlsx) | Geração do Excel |
-| Google Fonts (Inter) | Tipografia |
+| Anthropic Claude API | IA para interpretar mensagens (VP Tracker) |
 
 ## 📂 Estrutura
 
 ```
 whatsapp-parser/
-├── index.html          # Aplicação completa (SPA)
-├── README.md           # Documentação
-├── LICENSE             # Licença MIT
-└── teste_whatsapp.txt  # Arquivo de exemplo para teste
+├── index.html                  # WhatsApp Parser (SPA)
+├── vp-benefit-tracker.html     # VP Benefit Tracker (SPA)
+├── teste_whatsapp.txt          # Arquivo de teste - Parser
+├── teste_vp_tracker.txt        # Arquivo de teste - VP Tracker
+├── README.md
+├── LICENSE
+└── .gitignore
 ```
 
 ## 📄 Licença

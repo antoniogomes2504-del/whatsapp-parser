@@ -1,0 +1,66 @@
+26/08/2025, 09:15 - Ana Paula (Assistente): Bom dia equipe de viagens! Preciso organizar uma viagem para o VP Ricardo Mendes
+26/08/2025, 09:16 - Ana Paula (Assistente): Ele precisa ir para São Paulo na semana que vem, de terça a quinta
+26/08/2025, 09:20 - Carlos (Viagens Corp): Bom dia Ana! Vou verificar as opções de voo e hotel
+26/08/2025, 09:45 - Carlos (Viagens Corp): Ana, encontrei as seguintes opções para o Ricardo Mendes:
+Voo Fortaleza-São Paulo ida 02/09, volta 04/09
+Hotel Ibis Paulista 2 diárias
+Total: R$ 3.850,00
+26/08/2025, 09:47 - Ana Paula (Assistente): Pode confirmar essa opção, Carlos
+26/08/2025, 10:00 - Carlos (Viagens Corp): Confirmado! Viagem do VP Ricardo Mendes - FOR/GRU - R$ 3.850,00 debitado do benefício
+26/08/2025, 10:02 - Carlos (Viagens Corp): Saldo disponível do Ricardo Mendes: R$ 56.150,00
+28/08/2025, 14:30 - Ana Paula (Assistente): Oi Carlos, a VP Fernanda Costa precisa ir para o Rio de Janeiro
+28/08/2025, 14:31 - Ana Paula (Assistente): É para uma reunião do board no dia 10/09
+28/08/2025, 14:35 - Carlos (Viagens Corp): Ok! Vou preparar o orçamento
+28/08/2025, 15:00 - Carlos (Viagens Corp): Fernanda Costa - Fortaleza/Rio ida 09/09 volta 11/09
+Voo + hotel + transfer: R$ 4.200,00
+28/08/2025, 15:05 - Ana Paula (Assistente): Aprovado, pode emitir
+28/08/2025, 15:10 - Carlos (Viagens Corp): Emitido! Viagem VP Fernanda Costa FOR-GIG R$ 4.200,00
+Saldo disponível da Fernanda: R$ 55.800,00
+05/09/2025, 11:00 - Ana Paula (Assistente): Carlos, o Ricardo Mendes precisa de outra viagem
+05/09/2025, 11:01 - Ana Paula (Assistente): Dessa vez para Brasília, reunião no ministério dia 15/09
+05/09/2025, 11:30 - Carlos (Viagens Corp): Ricardo Mendes FOR-BSB 14/09 a 16/09
+Voo executivo + hotel + transfer
+Total: R$ 5.600,00
+05/09/2025, 11:35 - Ana Paula (Assistente): Ok, pode emitir
+05/09/2025, 11:40 - Carlos (Viagens Corp): Confirmado Ricardo Mendes BSB R$ 5.600,00
+Saldo atualizado do Ricardo: R$ 50.550,00
+12/09/2025, 08:30 - Ana Paula (Assistente): Bom dia! A viagem do Ricardo pra BSB foi cancelada
+12/09/2025, 08:31 - Ana Paula (Assistente): Reunião no ministério foi adiada
+12/09/2025, 08:35 - Carlos (Viagens Corp): Entendido. Vou verificar as políticas de cancelamento
+12/09/2025, 09:00 - Carlos (Viagens Corp): Ana, infelizmente tem multa de cancelamento
+Multa de R$ 1.200,00 para o VP Ricardo Mendes
+O reembolso parcial será de R$ 4.400,00
+12/09/2025, 09:05 - Carlos (Viagens Corp): Saldo atualizado Ricardo Mendes após cancelamento e reembolso: R$ 53.750,00
+15/09/2025, 16:00 - Ana Paula (Assistente): Carlos, preciso de uma viagem urgente para o VP Marcos Oliveira
+15/09/2025, 16:01 - Ana Paula (Assistente): Ele precisa estar em Manaus amanhã! Reunião emergencial com a filial
+15/09/2025, 16:30 - Carlos (Viagens Corp): Ana, por ser urgente os preços estão bem altos
+FOR-MAO ida 16/09 volta 18/09
+Voo + hotel: R$ 7.800,00 para o Marcos Oliveira
+15/09/2025, 16:35 - Ana Paula (Assistente): Sem opção, precisa ir. Confirma por favor
+15/09/2025, 16:40 - Carlos (Viagens Corp): Emitido VP Marcos Oliveira FOR/MAO R$ 7.800,00
+Saldo Marcos Oliveira: R$ 52.200,00
+20/09/2025, 10:00 - Carlos (Viagens Corp): Ana, segue o resumo mensal até agora:
+- Ricardo Mendes: saldo R$ 53.750,00
+- Fernanda Costa: saldo R$ 55.800,00
+- Marcos Oliveira: saldo R$ 52.200,00
+01/10/2025, 09:00 - Ana Paula (Assistente): Carlos, outubro vai ser pesado
+01/10/2025, 09:01 - Ana Paula (Assistente): O Ricardo tem 3 viagens programadas e a Fernanda tem 2
+01/10/2025, 14:00 - Carlos (Viagens Corp): Ricardo Mendes viagem SP 06/10 a 08/10 - R$ 3.500,00 confirmada
+Saldo Ricardo: R$ 50.250,00
+05/10/2025, 11:00 - Carlos (Viagens Corp): Fernanda Costa viagem Brasília 10/10 a 12/10
+Voo + hotel: R$ 4.800,00
+Saldo Fernanda: R$ 51.000,00
+10/10/2025, 09:00 - Carlos (Viagens Corp): Ricardo Mendes viagem RJ 15/10 a 17/10 R$ 4.100,00
+Saldo Ricardo: R$ 46.150,00
+15/10/2025, 14:00 - Carlos (Viagens Corp): Marcos Oliveira viagem Recife 20/10 a 22/10 R$ 3.200,00
+Saldo Marcos: R$ 49.000,00
+20/10/2025, 09:00 - Ana Paula (Assistente): Carlos, a Fernanda pediu reembolso de R$ 850,00
+20/10/2025, 09:01 - Ana Paula (Assistente): É referente a despesas extras na viagem de Brasília
+20/10/2025, 09:30 - Carlos (Viagens Corp): Reembolso da VP Fernanda Costa aprovado: R$ 850,00
+Será debitado do benefício
+Saldo atualizado Fernanda: R$ 50.150,00
+25/10/2025, 16:00 - Carlos (Viagens Corp): Ricardo Mendes terceira viagem do mês - Porto Alegre 28/10 a 30/10
+Total: R$ 4.500,00
+Saldo Ricardo: R$ 41.650,00
+25/10/2025, 16:05 - Carlos (Viagens Corp): ⚠️ Atenção Ana: Ricardo Mendes já utilizou R$ 18.350,00 do benefício
+Restam R$ 41.650,00 para o resto do ano
